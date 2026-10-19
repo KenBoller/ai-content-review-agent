@@ -156,7 +156,7 @@ ai-content-review-agent/
 ### 1. Clone Repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/KenBoller/ai-content-review-agent.git
 cd ai-content-review-agent
 ```
 
