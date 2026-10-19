@@ -1,5 +1,9 @@
 # AI Content Review Agent
 
+
+[![Run Tests](https://github.com/KenBoller/ai-content-review-agent/actions/workflows/tests.yml/badge.svg)](https://github.com/KenBoller/ai-content-review-agent/actions/workflows/tests.yml)
+
+
 A LangGraph-powered AI workflow that reviews content for grammar, SEO, and readability, then generates an improved version ready for publication.
 
 Built as a practical AI automation project to explore workflow orchestration, multi-agent systems, local LLM deployment, and production-oriented AI application design.
